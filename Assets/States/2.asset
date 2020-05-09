@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 492f378e0c7434cd2896cec02a8c7578, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  storyText: "Your well rested now. You've had dinner and are now ready to kick off.
+    \n\nYou set sails and turn on the thrusters.\n\nWhat do you want to do?\n1. Climb
+    on the helm and point your sword into space!\n2. Get into the cabin and play
+    it safe."
+  nextStates:
+  - {fileID: 11400000, guid: 7483ebe2c352f49c7a1f7e11d8e1e6bd, type: 2}
+  - {fileID: 11400000, guid: 7483ebe2c352f49c7a1f7e11d8e1e6bd, type: 2}

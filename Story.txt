@@ -1,0 +1,6 @@
+﻿The year is 4302, your name isn't important.
+You are the leader of the Marmax Pirates.
+
+What are your orders?
+1. Set Sail!
+2. Visit the pub.
